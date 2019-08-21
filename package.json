@@ -1,0 +1,8 @@
+{
+  "name": "cool-doge",
+  "version": "1.0.0",
+  "description": "Keep it cool, doge.",
+  "main": "index.js",
+  "author": "Ryan Teodoro",
+  "license": "MIT"
+}
