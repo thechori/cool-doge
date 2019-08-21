@@ -5,8 +5,5 @@
   "main": "index.js",
   "author": "Ryan Teodoro",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thechori/cool-doge"
-  }
+  "repository": "git://github.com/thechori/cool-doge.git"
 }
